@@ -252,7 +252,7 @@ Cloud Studio 是腾讯云推出的一款基于浏览器的集成开发环境（I
    export AIHUBMIX_API_KEY=sk-**
    ```
 
-   > 不要带 `[]`git add "Learning/Assets/all_in_rag and dive_into_langgraph/All_In_RAG/课程/chapter1 解锁RAG/02_preparation.md"
+   > 不要带 `[]`git add "Learning/Assets/all_in_rag and dive_into_langgraph/All_In_RAG/课程/chapter1 解锁RAG/02_preparation.md"git add "Learning/Assets/all_in_rag and dive_into_langgraph/All_In_RAG/课程/chapter1 解锁RAG/02_preparation.md"
    >
 3. 保存并退出 在 vim 中，按 Esc 键进入命令模式，然后输入 `:wq` 并按 Enter 键保存文件并退出。
 4. 使配置生效 执行以下命令来立即加载更新后的配置，让环境变量生效：
